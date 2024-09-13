@@ -1,4 +1,4 @@
-# Eye-for-blind
+# Image cation generator | Eye-for-blind
 #### Image to text to speech generation
 
 ## Brief description
